@@ -1,2 +1,2 @@
-# Lab 1_A: Drone Environmental monitoring
-Pathfinding logic of an autonomous drone used for environmental monitoring.
+# Lab 1 Part B
+OOP Informed Search Algorithms for Drone Pathfinding.
